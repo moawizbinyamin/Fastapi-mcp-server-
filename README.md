@@ -4,9 +4,9 @@ A comprehensive FastAPI application with Model Context Protocol (MCP) server fun
 
 ## 🎥 Demo Video
 
-https://github.com/moawizbinyamin/Fastapi-mcp-server-/assets/177374888/mcp.mp4
+[![FastAPI MCP Server Demo](https://github.com/moawizbinyamin/Fastapi-mcp-server-/blob/master/mcp.mp4)](https://github.com/moawizbinyamin/Fastapi-mcp-server-/blob/master/mcp.mp4)
 
-*Watch the video demonstration of the FastAPI MCP Server in action!*
+*Click the video above to watch the demonstration of the FastAPI MCP Server in action!*
 
 ## Features
 
