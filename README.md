@@ -2,6 +2,12 @@
 
 A comprehensive FastAPI application with Model Context Protocol (MCP) server functionality, providing 21+ useful tools for mathematical operations, string manipulation, file handling, utilities, and web requests.
 
+## 🎥 Demo Video
+
+https://github.com/moawizbinyamin/Fastapi-mcp-server-/assets/177374888/mcp.mp4
+
+*Watch the video demonstration of the FastAPI MCP Server in action!*
+
 ## Features
 
 ### 🔢 Mathematical Operations
