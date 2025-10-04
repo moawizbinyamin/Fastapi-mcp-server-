@@ -156,3 +156,13 @@ logs/
 temp/
 tmp/
 *.tmp
+
+# Large media files (use external hosting)
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.wmv
+*.flv
+*.webm
+*.m4v
