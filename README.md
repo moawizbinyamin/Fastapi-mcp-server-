@@ -4,14 +4,24 @@ A comprehensive FastAPI application with Model Context Protocol (MCP) server fun
 
 ## 🎥 Demo Video
 
-**Video Demonstration:** [Watch the FastAPI MCP Server Demo](https://github.com/moawizbinyamin/Fastapi-mcp-server-/blob/master/mcp.mp4)
+### 📺 Watch the Demo
 
-*Note: Due to GitHub's file size limitations, the video may not display inline. Click the link above to download and view the demonstration video showing all 21+ tools in action.*
+**Google Drive:** [FastAPI MCP Server Demo Video](https://drive.google.com/file/d/YOUR_VIDEO_ID/view?usp=sharing)
 
-### Alternative Video Hosting Options:
-- Upload to [YouTube](https://youtube.com) and embed the link
-- Use [GitHub Releases](https://github.com/moawizbinyamin/Fastapi-mcp-server-/releases) for larger files
-- Host on [GitHub Pages](https://pages.github.com) or external video platforms
+*Click the link above to watch the demonstration video showing all 21+ tools in action!*
+
+### 📋 How to Use Google Drive Links:
+
+1. **Upload your video** to Google Drive
+2. **Right-click** on the video file → "Get link"
+3. **Change permissions** to "Anyone with the link can view"
+4. **Copy the sharing link** and replace `YOUR_VIDEO_ID` above
+
+### 🔗 Alternative Hosting Options:
+- **[YouTube](https://youtube.com)** - Best for public demos with embed preview
+- **[GitHub Releases](https://github.com/moawizbinyamin/Fastapi-mcp-server-/releases)** - For downloadable files
+- **[GitHub Pages](https://pages.github.com)** - For project websites
+- **[Vimeo](https://vimeo.com)** - Professional video hosting
 
 ## Features
 
