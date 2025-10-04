@@ -158,7 +158,7 @@ tmp/
 *.tmp
 
 # Large media files (use external hosting)
-*.mp4
+# *.mp4  # Temporarily allow mcp.mp4 for demo
 *.avi
 *.mov
 *.mkv

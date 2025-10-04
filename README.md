@@ -6,21 +6,30 @@ A comprehensive FastAPI application with Model Context Protocol (MCP) server fun
 
 ### 📺 Watch the Demo
 
-**Google Drive:** [FastAPI MCP Server Demo Video](https://drive.google.com/file/d/YOUR_VIDEO_ID/view?usp=sharing)
+**Direct Video Link:** [FastAPI MCP Server Demo Video](https://github.com/moawizbinyamin/Fastapi-mcp-server-/blob/master/mcp.mp4)
 
 *Click the link above to watch the demonstration video showing all 21+ tools in action!*
 
-### 📋 How to Use Google Drive Links:
+### 🎬 Video Preview
 
-1. **Upload your video** to Google Drive
-2. **Right-click** on the video file → "Get link"
-3. **Change permissions** to "Anyone with the link can view"
-4. **Copy the sharing link** and replace `YOUR_VIDEO_ID` above
+The demo showcases:
+- ✅ **Mathematical Operations** - Addition, subtraction, multiplication, division, power, square root
+- ✅ **String Manipulation** - Uppercase, lowercase, reverse, length operations
+- ✅ **File Operations** - Reading, writing, and directory listing
+- ✅ **Utility Functions** - Time, random numbers, UUID generation, hashing
+- ✅ **Web Utilities** - URL validation and HTTP requests
+- ✅ **MCP Protocol** - WebSocket communication and tool calling
+
+### 📋 Download Instructions:
+
+1. **Click the video link** above to view in GitHub
+2. **Right-click** on the video → "Save video as" to download
+3. **Play locally** for the best viewing experience
 
 ### 🔗 Alternative Hosting Options:
 - **[YouTube](https://youtube.com)** - Best for public demos with embed preview
+- **[Google Drive](https://drive.google.com)** - Easy sharing and preview
 - **[GitHub Releases](https://github.com/moawizbinyamin/Fastapi-mcp-server-/releases)** - For downloadable files
-- **[GitHub Pages](https://pages.github.com)** - For project websites
 - **[Vimeo](https://vimeo.com)** - Professional video hosting
 
 ## Features
